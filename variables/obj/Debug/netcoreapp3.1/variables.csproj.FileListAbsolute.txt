@@ -1,0 +1,13 @@
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.exe
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.deps.json
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.json
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.dev.json
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.dll
+C:\Users\HP\variables\bin\Debug\netcoreapp3.1\variables.pdb
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.csprojAssemblyReference.cache
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfoInputs.cache
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfo.cs
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.dll
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.pdb
+C:\Users\HP\variables\obj\Debug\netcoreapp3.1\variables.genruntimeconfig.cache
