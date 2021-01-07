@@ -1,0 +1,13 @@
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.exe
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.deps.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.runtimeconfig.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.runtimeconfig.dev.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\bin\Debug\netcoreapp3.1\Clubentry.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.csprojAssemblyReference.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.AssemblyInfoInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.AssemblyInfo.cs
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Clubentry\obj\Debug\netcoreapp3.1\Clubentry.genruntimeconfig.cache
