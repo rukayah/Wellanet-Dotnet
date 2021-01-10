@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\conditionals\\conditionals.csproj",
-      "projectName": "conditionals",
-      "projectPath": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\conditionals\\conditionals.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\Guessinggame\\Guessinggame.csproj",
+      "projectName": "Guessinggame",
+      "projectPath": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\Guessinggame\\Guessinggame.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\conditionals\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Dotnet\\Wellanet-Dotnet\\Guessinggame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
