@@ -1,0 +1,13 @@
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.exe
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.deps.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.runtimeconfig.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.runtimeconfig.dev.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\bin\Debug\netcoreapp3.1\Guessinggame.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.csprojAssemblyReference.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.AssemblyInfoInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.AssemblyInfo.cs
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\Guessinggame\obj\Debug\netcoreapp3.1\Guessinggame.genruntimeconfig.cache
