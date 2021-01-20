@@ -1,0 +1,13 @@
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.exe
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.deps.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.runtimeconfig.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.runtimeconfig.dev.json
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.csprojAssemblyReference.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.AssemblyInfoInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.AssemblyInfo.cs
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.dll
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.pdb
+C:\Users\HP\Dotnet\Wellanet-Dotnet\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.genruntimeconfig.cache
